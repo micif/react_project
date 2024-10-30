@@ -1,0 +1,17 @@
+.card {
+  display: "grid";
+  grid-template-rows: "auto 1fr";
+  min-height: 200;
+  padding: 16;
+}
+
+.content {
+  display: "flex";
+  flex-Direction: "column";
+  justify-Content: "space-between",
+}
+
+.element {
+  justify-Self: "end";
+
+}
